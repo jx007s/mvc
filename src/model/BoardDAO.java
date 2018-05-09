@@ -22,7 +22,7 @@ public class BoardDAO {
 		
 		try {
 			
-			/////경민 경민 ㅎㅎㅎㅎㅎㅎ
+			/////승진승진 ㅋㅋㅋㅋㅋㅋㅋㅋ
 			
 			
 			Context init = new InitialContext();
