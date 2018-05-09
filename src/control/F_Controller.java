@@ -55,7 +55,7 @@ public class F_Controller extends HttpServlet {
 					response.sendRedirect(data.getPath());
 				}else {
 					
-					
+					////나도 한번 바꿔 본다~~~~
 					request.getRequestDispatcher("../view/template.jsp").
 					forward(request, response);
 				}
