@@ -21,6 +21,10 @@ public class BoardDAO {
 		// TODO Auto-generated constructor stub
 		
 		try {
+			
+			/////경민 경민 ㅎㅎㅎㅎㅎㅎ
+			
+			
 			Context init = new InitialContext();
 			DataSource ds = (DataSource)init.lookup("java:comp/env/oooo");
 			
